@@ -8,10 +8,10 @@ Questions
     3.Develop in increments.
     4.Use it before you build it.
     5.Raise the bar for you and your team.
-<input type="text" name="ans1"/> Don’t share what you know keep it to yourself.<BR>
-<input type="text" name="ans2"/> 
+:white_circle: Don’t share what you know keep it to yourself.<BR>
+:white_circle:
 Don’t waste time thinking about integrating your code until the very end of the development phase, or at least until devel- opment is well underway <BR>
-<input type="text" name="ans3"/> 
+:white_circle:
 We’ve got this beautiful project plan with all the tasks and deliverables scheduled for the next three years. When we release the product then, we’ll capture the market!!!
 <BR>
 
