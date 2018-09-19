@@ -1,7 +1,7 @@
 Questions
 ---
 
->Q1 : According to PAD, Match the number of following good things to do that related to the bad things that you wouldn't do in agile developer 
+**Q1** : According to PAD, Match the number of following good things to do that related to the bad things that you wouldn't do in agile developer 
 
     1. Tackle tasks before they bunch up.
     2.Integrate early, integrate often.
@@ -16,7 +16,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 <BR>
 
 ***
->Q2 : What is the right things to do according to PAD? (Check 3 correct answers.)
+**Q2** : What is the right things to do according to PAD? (Check 3 correct answers.)
 
 :white_circle:  You are about to write some new code, and the first decision you need to make is where to put it. It doesn’t really matter where it goes, so just go ahead and add it to the class that happens to be open in your IDE now. It’s easier to keep track of code when it’s all in one big class or component anyway. <BR>
 
@@ -31,7 +31,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 :white_circle: Publish your status, your ideas and the neat things you’re looking at. Don’t wait for others to ask you the status of your work. <BR>
 
 ***
->Q3 : When you push somethings to git,what does it accualy do?
+**Q3** : When you push somethings to git,what does it accualy do?
 
 :white_circle: Find differences between your latest files and your recently committed files then add it. <BR>
 
@@ -44,7 +44,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 :white_circle: Find differences between your lastest files and your recently committed files then deleted the differences before add it <BR>
 
 ***
->Q4 : What is the most important Software Developer Skills?
+**Q4** : What is the most important Software Developer Skills?
 
 :white_circle: Solving Problems<BR>
 
@@ -60,7 +60,7 @@ We’ve got this beautiful project plan with all the tasks and deliverables sche
 All above <BR>
 
 ***
->Q5 : Why does it require for naming  good names in programming?
+**Q5** : Why does it require for naming  good names in programming?
 
 
 ***
